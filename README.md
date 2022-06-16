@@ -26,6 +26,8 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 1:20pm: Reach out to optometrist to find a time to meet.
 - 2:00pm: Finish phone call with head optometrist.
 - 3:00pm: Research click to remove header announcements
+- 4:00pm: Find a website to help walk through creating notification banners.
+
 
 ## Known Bugs
 
