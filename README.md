@@ -14,6 +14,11 @@
 
 This will be my capstone project for Epicodus. I will help a local business organize and finish up their website. There will be added functionality and removal of unecessary sections.
 
+### Research & Planning Log
+#### Wednesday, 06/15
+* 5:30pm: research and watch video for implementing contact forms.
+
+
 ## Known Bugs
 
 - None, yet ;)
