@@ -30,7 +30,13 @@ This will be my capstone project for Epicodus. I will help a local business orga
 
 #### Thursday, 06/23
 - 10:00am: Continue researching [new website](https://userguiding.com/blog/website-notification-banner/) about notification banners, specifically those that are click-removable.
--11:30am: Set new date via phone to go into optometrist office and see what they used to create their website base.
+- 11:30am: Set new date via phone to go into optometrist office and see what they used to create their website base.
+- 1:00pm: Try to figure out how to upload already created website base to github to show eventual progress.
+
+#### Friday, 07/01
+
+- 2:00pm: find a [different website](https://www.convertflow.com/campaigns/website-notification-bars) about notification banners and look over that.
+- 3:30pm: end work for the day and make reminder to email Chris.
 
 
 
