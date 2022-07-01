@@ -28,6 +28,11 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 3:00pm: Research click to remove header announcements
 - 4:00pm: Find a website to help walk through creating notification banners.
 
+#### Thursday, 06/23
+- 10:00am: Continue researching [new website](https://userguiding.com/blog/website-notification-banner/) about notification banners, specifically those that are click-removable.
+-11:30am: Set new date via phone to go into optometrist office and see what they used to create their website base.
+
+
 
 ## Known Bugs
 
