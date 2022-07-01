@@ -36,6 +36,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 #### Friday, 07/01
 
 - 2:00pm: find a [different website](https://www.convertflow.com/campaigns/website-notification-bars) about notification banners and look over that.
+- 2:25pm: Start on flow chart for things that will be added/removed.
 - 3:30pm: end work for the day and make reminder to email Chris.
 
 
