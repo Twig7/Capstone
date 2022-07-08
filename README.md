@@ -43,6 +43,8 @@ This will be my capstone project for Epicodus. I will help a local business orga
 
 - 12:45pm: Get in touch with business owner and receive contact info for original website creator.
 - 1:15pm: Brief chat with employee with the log in info. Make plans to receive log in credentials later in the afternoon.
+- 1:30pm: Do more research into Wordpress
+- 3:00pm: finish up research
 
 
 
