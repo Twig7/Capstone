@@ -46,6 +46,12 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 1:30pm: Do more research into Wordpress
 - 3:00pm: finish up research
 
+#### Friday, 07/08
+
+- 7:30pm: Received access to wordpress site, start work.
+- 8:15pm: Realize you haven't been given high enough access to do what you need to do. Set reminder to email staff.
+
+
 
 
 ## Known Bugs
