@@ -56,7 +56,11 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 10:00am: Send email to staff concerning project permissions and editting. Try some other options with no success. 
 - 12:45pm: Finish work for day.
 
+#### Tuesday, 07/12
 
+- 5:10pm: Receive higher permissions to work on capstone.
+- 6:00pm: Find and install notification banner, work on matching colors to those already used on website.
+- 6:50pm: Finish notification banner, move on to condensing pages.
 
 
 
