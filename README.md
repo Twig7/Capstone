@@ -51,6 +51,12 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 7:30pm: Received access to wordpress site, start work.
 - 8:15pm: Realize you haven't been given high enough access to do what you need to do. Set reminder to email staff.
 
+#### Monday, 07/11
+
+- 10:00am: Send email to staff concerning project permissions and editting. Try some other options with no success. 
+- 12:45pm: Finish work for day.
+
+
 
 
 
