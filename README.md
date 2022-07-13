@@ -62,6 +62,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 6:00pm: Find and install notification banner, work on matching colors to those already used on website.
 - 6:50pm: Finish notification banner, move on to condensing pages.
 - 8:25pm: Finish condensing pages, start looking into contact forms.
+- 8:50pm: Create and install contact form. Make plans to test it in the morning.
 
 
 
