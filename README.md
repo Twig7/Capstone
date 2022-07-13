@@ -6,9 +6,8 @@
 
 ## Technologies Used
 
-- C#
-- NET 5.0
-- See what they used to build the start of the website
+- Wordpress
+
 
 ## Description
 
