@@ -66,6 +66,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 #### Sunday, 07/17
 
 - 9:30am: Start researching stretch goal ideas.
+- 1:00pm: Pause for lunch
 
 ## Known Bugs
 
