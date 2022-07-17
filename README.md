@@ -63,7 +63,9 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 8:25pm: Finish condensing pages, start looking into contact forms.
 - 8:50pm: Create and install contact form. Make plans to test it in the morning.
 
+#### Sunday, 07/17
 
+- 9:30am: Start researching stretch goal ideas.
 
 ## Known Bugs
 
