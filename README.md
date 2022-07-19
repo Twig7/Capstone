@@ -78,6 +78,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 7:50pm: pause for dinner.
 - 8:05pm: fix centering of menu using custom css.
 - 8:25pm: double check typos in custom css.
+- 8:40pm: finish for the evening.
 ## Known Bugs
 
 - None, yet ;)
