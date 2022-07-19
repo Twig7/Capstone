@@ -7,6 +7,7 @@
 ## Technologies Used
 
 - Wordpress
+- CSS
 
 
 ## Description
