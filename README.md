@@ -72,6 +72,9 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 3:45pm: restart
 - 5:15pm: finish for day.
 
+#### Monday, 07/18
+- 6:00pm: start day's work researching, tweak some aspects of contact form.
+
 ## Known Bugs
 
 - None, yet ;)
