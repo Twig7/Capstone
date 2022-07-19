@@ -77,6 +77,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 6:00pm: start day's work researching, tweak some aspects of contact form, fight with centering.
 - 7:50pm: pause for dinner.
 - 8:05pm: fix centering of menu using custom css.
+- 8:25pm: double check typos in custom css.
 ## Known Bugs
 
 - None, yet ;)
