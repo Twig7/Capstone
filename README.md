@@ -94,7 +94,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 7:00pm: Move on to testing hours of operation section
 - 7:30pm: Tweak notification banner
 - 7:45pm: Fix 'meet our doctors' section.
-
+- 8:45pm: Finish for day
 ## Known Bugs
 
 - None, yet ;)
