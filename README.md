@@ -79,6 +79,18 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 8:05pm: fix centering of menu using custom css.
 - 8:25pm: double check typos in custom css.
 - 8:40pm: finish for the evening.
+
+#### Tuesday, 07/19
+
+- 6:00pm: Start days' work, fix some previous issues with a sidebar widget
+- 7:25pm: Finish fighting with sidebar widget.
+- 7:30pm: dinner break
+- 7:45pm: back to work on hiding sidebar widget
+- 8:45pm: done for day
+
+### Wednesday, 07/20
+
+
 ## Known Bugs
 
 - None, yet ;)
