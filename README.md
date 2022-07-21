@@ -93,6 +93,8 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 6:15pm: Start today's work, test out contact form.
 - 7:00pm: Move on to testing hours of operation section
 - 7:30pm: Tweak notification banner
+- 7:45pm: Fix 'meet our doctors' section.
+
 ## Known Bugs
 
 - None, yet ;)
