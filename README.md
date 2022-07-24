@@ -95,6 +95,12 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 7:30pm: Tweak notification banner
 - 7:45pm: Fix 'meet our doctors' section.
 - 8:45pm: Finish for day
+
+### Sunday, 07/24
+
+- 9:45am: Start today's work, start browsing and testing new themes.
+- 11:00am: Keep theme, reorganize contact us page.
+- 1:00pm: lunch
 ## Known Bugs
 
 - None, yet ;)
