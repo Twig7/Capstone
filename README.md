@@ -101,6 +101,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 9:45am: Start today's work, start browsing and testing new themes.
 - 11:00am: Keep theme, reorganize contact us page.
 - 1:00pm: lunch
+- 2:00pm: lunch end, continue reorganizing contact page.
 ## Known Bugs
 
 - None, yet ;)
