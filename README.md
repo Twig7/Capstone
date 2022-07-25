@@ -103,6 +103,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 1:00pm: lunch
 - 2:00pm: lunch end, continue reorganizing contact page.
 - 3:25pm: work on hours and location page.
+- 5:30pm: Finish for the day 
 ## Known Bugs
 
 - None, yet ;)
