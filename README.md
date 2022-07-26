@@ -108,7 +108,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 ### Monday, 07/25
 
 - 6:15pm: Start day's work with their employment menu
-- 
+- 8:45pm: finish up employment menu for today.
 ## Known Bugs
 
 - None, yet ;)
