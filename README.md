@@ -114,6 +114,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 
 - 6:10pm: Start days work, set up test for contact form.
 - 7:40pm: Fix more css for the homepage.
+- 8:45pm: Finish css for homepage and end for day.
 ## Known Bugs
 
 - None, yet ;)
