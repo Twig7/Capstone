@@ -109,6 +109,11 @@ This will be my capstone project for Epicodus. I will help a local business orga
 
 - 6:15pm: Start day's work with their employment menu
 - 8:45pm: finish up employment menu for today.
+
+### Tuesday, 07/26
+
+- 6:10pm: Start days work, set up test for contact form.
+
 ## Known Bugs
 
 - None, yet ;)
