@@ -113,7 +113,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 ### Tuesday, 07/26
 
 - 6:10pm: Start days work, set up test for contact form.
-
+- 7:40pm: Fix more css for the homepage.
 ## Known Bugs
 
 - None, yet ;)
