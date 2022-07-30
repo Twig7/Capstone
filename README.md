@@ -120,6 +120,12 @@ This will be my capstone project for Epicodus. I will help a local business orga
 
 - 6:00pm: Start day's work troubleshooting contact form.
 - 9:15pm: Complete troubleshooting, confirm emails are being sent successfully. 
+
+### Thursday, 07/28
+
+- 6:30pm: Emails send correctly to all test emails, but not to main optometry email. Continue to troubleshoot.
+- 9:00pm: Call it for the night
+
 ## Known Bugs
 
 - None, yet ;)
