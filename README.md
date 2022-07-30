@@ -126,6 +126,10 @@ This will be my capstone project for Epicodus. I will help a local business orga
 - 6:30pm: Emails send correctly to all test emails, but not to main optometry email. Continue to troubleshoot.
 - 9:00pm: Call it for the night
 
+### Friday, 07/29
+
+-7:30pm: Continue to research bug
+
 ## Known Bugs
 
 - None, yet ;)
