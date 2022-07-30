@@ -19,6 +19,7 @@ This will be my capstone project for Epicodus. I will help a local business orga
 #### Wednesday, 06/15
 
 - 5:30pm: research and watch video for implementing contact forms.
+- 9:00pm: Finish for night
 
 #### Thursday, 06/16
 
