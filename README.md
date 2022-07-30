@@ -128,11 +128,12 @@ This will be my capstone project for Epicodus. I will help a local business orga
 
 ### Friday, 07/29
 
--7:30pm: Continue to research bug
-
+- 7:30pm: Continue to research bug
+- 8:30pm: Try to find youtube video tutorials
+- 10:20pm: End work for night
 ## Known Bugs
 
-- None, yet ;)
+- Emails from contact form send to every email I test except the one I need them to go to.
 
 ## License
 
